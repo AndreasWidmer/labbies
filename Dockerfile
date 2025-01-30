@@ -50,6 +50,7 @@ RUN adduser --system --uid 1001 nextjs
 
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
 COPY --from=builder --chown=nextjs:nodejs /app/prisma ./prisma  
+COPY --from=builder --chown=nextjs:nodejs .env ./
 COPY --from=builder --chown=nextjs:nodejs /app/node_modules ./node_modules  
 
 
