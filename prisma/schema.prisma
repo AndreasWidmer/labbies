@@ -1,0 +1,76 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "darwin-arm64", "linux-musl-arm64-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Dog {
+  id            String    @id @default(uuid())
+  name          String
+  zbid          String
+  gender        String?
+  hd            String?
+  ed            String?
+  eyes          String?
+  birth         DateTime?
+  parents       String?
+  color         String
+  breeder       String?
+  approvalSince DateTime?
+  results       String?
+  tests         String?
+  notes         String?
+  form          String?
+  pedigree      String?
+  contact       String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // coverPlans       CoverPlan[]        @relation("CoverPlanDogs")
+  // CoverPlanParents CoverPlanParents[]
+
+  @@map("dogs")
+}
+
+model CoverPlan {
+  id      String  @id @default(uuid())
+  name    String
+  url     String?
+  kennel  String
+  zip     String?
+  city    String?
+  phone   String?
+  email   String?
+  cover   String?
+  status  String
+  pairing String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // parents        Dog[]             @relation("CoverPlanDogs")
+  // CoverPlanParents CoverPlanParents[]
+  @@unique([kennel, pairing])
+  @@map("coverplans")
+}
+
+// model CoverPlanParents {
+//   coverPlanId String
+//   dogId       String
+
+//   coverPlan CoverPlan @relation(fields: [coverPlanId], references: [id])
+//   parent    Dog       @relation(fields: [dogId], references: [id])
+
+//   @@id([coverPlanId, dogId])
+// }

@@ -1,0 +1,1356 @@
+{
+  "lastFetch": "2025-01-29T22:45:22.979Z",
+  "data": [
+    {
+      "id": 1,
+      "name": "Paschke Markus",
+      "kennel": "Amber Pearls",
+      "zip": "02627",
+      "city": "Radibor",
+      "phone": "017643189115",
+      "email": "bernsteinperle@gmx.de",
+      "parents": {
+        "male": {
+          "id": 176190,
+          "name": "SL JollyChoc's Hunter",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=176190&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 154988,
+          "name": "Alma von der Graßdorfer Höhe",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=154988&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 2,
+      "name": "Petrick, Frank",
+      "kennel": "Von der Briesener Heide",
+      "zip": "03096",
+      "city": "Briesen",
+      "phone": "01748655670",
+      "email": "frankpetrick@gmx.de",
+      "parents": {
+        "male": {
+          "id": 171124,
+          "name": "Northglen Monty Hunt",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=171124&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 151945,
+          "name": "Bonny von der Briesener Heide",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151945&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 3,
+      "name": "Elskamp, Jennifer",
+      "kennel": "Icamani",
+      "zip": "06406",
+      "city": "Bernburg",
+      "phone": "01727941567",
+      "parents": {
+        "male": {
+          "id": 181403,
+          "name": "Bellspaddle Mungo",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=181403&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 170433,
+          "name": "Calmbreath Blackfeet Yella",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=170433&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 4,
+      "name": "Zwanger, Ute",
+      "kennel": "Charming Power",
+      "zip": "21039",
+      "city": "Hamburg",
+      "phone": "01707754449",
+      "email": "ute.zwanger@gmail.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "+folgt+",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 160010,
+          "name": "Charming Power Foxy",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=160010&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.344Z",
+      "updatedAt": "2025-01-29T22:45:22.971Z",
+      "status": "existing"
+    },
+    {
+      "id": 5,
+      "name": "Berger, Andreas",
+      "kennel": "aus den Öjendorfer Auen",
+      "zip": "22117",
+      "city": "Hamburg",
+      "phone": "0151/19440204",
+      "email": "agberger@web.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Allegra's Pleasure Daddy Dollar",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 180958,
+          "name": "A Sense of Pleasure's Waikiki",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=180958&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.344Z",
+      "updatedAt": "2025-01-29T22:45:22.971Z",
+      "status": "existing"
+    },
+    {
+      "id": 6,
+      "name": "Wohlfromm, Wibke",
+      "kennel": "Kehrwieder",
+      "zip": "22459",
+      "city": "Hamburg",
+      "phone": "04058954784",
+      "email": "wibke.wohlfromm@web.de",
+      "parents": {
+        "male": {
+          "id": 181074,
+          "name": "Lyebreach Golden Eagle of Riverlily",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=181074&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 150688,
+          "name": "Kehrwieder Bremen",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=150688&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 7,
+      "name": "Wiegand, Tanja",
+      "kennel": "Erdnukkel's",
+      "zip": "22851",
+      "city": "Norderstedt",
+      "phone": "016097066828",
+      "email": "erdnukkels@gmx.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 156544,
+          "name": "Head over Fields Ebba",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=156544&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.344Z",
+      "updatedAt": "2025-01-29T22:45:22.971Z",
+      "status": "existing"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Birgit Noelle",
+      "kennel": "Eastern Oak",
+      "zip": "22961",
+      "city": "Oetjendorf",
+      "phone": "017622281516",
+      "email": "Birgit.Noelle@gmx.de",
+      "parents": {
+        "male": {
+          "id": 155482,
+          "name": "Charming Power Delta",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=155482&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 159007,
+          "name": "Eastern Oak Dublin",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=159007&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 9,
+      "name": "Stegmann, Petra",
+      "kennel": "Amazing Dark Beauty",
+      "zip": "23683",
+      "city": "Scharbeutz",
+      "phone": "01757171615",
+      "email": "info@amazingdarkbeauty.de",
+      "parents": {
+        "male": {
+          "id": 175443,
+          "name": "Emil von der hohen Elbgeest",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=175443&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 158825,
+          "name": "Amazing Dark Beauty Favourite Famy",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=158825&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Baier, Nina",
+      "kennel": "Muschelsucher",
+      "zip": "23795",
+      "city": "Schackendorf",
+      "phone": "01752415671",
+      "email": "Nina@muschelsucher-labrador.de",
+      "parents": {
+        "male": {
+          "id": 151512,
+          "name": "Linkwood Ardpatrick",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151512&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 157656,
+          "name": "Muschelsucher Flower",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=157656&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 11,
+      "name": "Sommer, Birgit",
+      "kennel": "vom Henstedter Feld",
+      "zip": "24558",
+      "city": "Henstedt-Ulzburg",
+      "phone": "01748741111",
+      "email": "birgit.sommer@wtnet.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "folgt",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 156523,
+          "name": "Lucky Likedeeler Granates Tochter Greta",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=156523&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.345Z",
+      "updatedAt": "2025-01-29T22:45:22.972Z",
+      "status": "existing"
+    },
+    {
+      "id": 12,
+      "name": "Mumm, Kathrin",
+      "kennel": "Springlike",
+      "zip": "24861",
+      "city": "Bergenhusen",
+      "phone": "0160-96461252",
+      "email": "springlikegundogs@web.de",
+      "parents": {
+        "male": {
+          "id": 181122,
+          "name": "Rustler Master",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=181122&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 156993,
+          "name": "Copperbirch Dart",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=156993&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 13,
+      "name": "Mumm, Kathrin",
+      "kennel": "Springlike",
+      "zip": "24861",
+      "city": "Bergenhusen",
+      "phone": "0160-96461252",
+      "email": "springlikegundogs@web.de",
+      "parents": {
+        "male": {
+          "id": 173269,
+          "name": "Wauniago Fowler",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=173269&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 168788,
+          "name": "Hegnsager Miss Marple",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=168788&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 14,
+      "name": "Schlichting, Sandra",
+      "kennel": "vom Forst Klövensteen",
+      "zip": "25421",
+      "city": "Pinneberg",
+      "phone": "+491716536366",
+      "email": "salu.schlichting@gmx.de",
+      "parents": {
+        "male": {
+          "id": 151512,
+          "name": "Linkwood Ardpatrick",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151512&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 159451,
+          "name": "Never change Juna",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=159451&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 15,
+      "name": "Abshagen, Anne",
+      "kennel": "Blackbox Dogs",
+      "zip": "25451",
+      "city": "Quickborn",
+      "phone": "01752439512",
+      "email": "anne.abshagen@outlook.com",
+      "parents": {
+        "male": {
+          "id": 155482,
+          "name": "Charming Power Delta",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=155482&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 156953,
+          "name": "Femba's Question of Faith Amelia",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=156953&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 16,
+      "name": "Hillebrand, Katja",
+      "kennel": "Femba's",
+      "zip": "25563",
+      "city": "Wrist",
+      "phone": "01724404466",
+      "email": "katja.hillebrand@web.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 158107,
+          "name": "Femba's Run to you Svea",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=158107&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.973Z",
+      "status": "existing"
+    },
+    {
+      "id": 17,
+      "name": "Hillebrand, Katja",
+      "kennel": "Femba's",
+      "zip": "25563",
+      "city": "Wrist",
+      "phone": "01724404466",
+      "email": "katja.hillebrand@web.de",
+      "parents": {
+        "male": {
+          "id": 171558,
+          "name": "Kingsdale Meadow Canvas",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=171558&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 148439,
+          "name": "Femba's Lean On Me Lieke",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=148439&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 18,
+      "name": "Hillebrand, Katja",
+      "kennel": "Femba's",
+      "zip": "25563",
+      "city": "Wrist",
+      "phone": "01724404466",
+      "email": "katja.hillebrand@web.de",
+      "parents": {
+        "male": {
+          "id": 176917,
+          "name": "Power Aguzannis",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=176917&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 150733,
+          "name": "Femba's Nothing Compares to you Lona",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=150733&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.346Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 19,
+      "name": "Grünefeld, Bernd",
+      "kennel": "Greenfallow",
+      "zip": "26180",
+      "city": "Rastede",
+      "phone": "015209254556",
+      "email": "bernd.gruenefeld@gmx.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": "",
+          "name": "Reggae vom Keien Fenn. (aus sp. jagdl. Leistungszucht)",
+          "breeding": "",
+          "url": ""
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.332Z",
+      "updatedAt": "2025-01-29T22:45:22.959Z",
+      "status": "existing"
+    },
+    {
+      "id": 20,
+      "name": "Göken, Joachim",
+      "kennel": "vom Berdumer Hof",
+      "zip": "26409",
+      "city": "Wittmund",
+      "phone": "015208981375",
+      "email": "joachimgoeken@t-online.de",
+      "parents": {
+        "male": {
+          "id": 119443,
+          "name": "Favourite fellow Gustav",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=119443&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 153238,
+          "name": "Amy vom Hasetaler Forst",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=153238&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 21,
+      "name": "Balßen, Saskia",
+      "kennel": "vom Fischereischloot",
+      "zip": "26506",
+      "city": "Norden",
+      "phone": "0176 95845744",
+      "email": "familie@balssen.com",
+      "parents": {
+        "male": {
+          "id": 145210,
+          "name": "Fir green Blake",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=145210&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 167324,
+          "name": "Gundog's Choice Nelly",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=167324&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 22,
+      "name": "Ostendorp, Rena",
+      "kennel": "vom Gänsemoor",
+      "zip": "26524",
+      "city": "Berumbur",
+      "phone": "015156452978",
+      "email": "re19na94@gmail.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 167305,
+          "name": "Cynara vom Altusknipp",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=167305&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.974Z",
+      "status": "existing"
+    },
+    {
+      "id": 23,
+      "name": "Karen; Stefanie",
+      "kennel": "Doodle-Dawgs",
+      "zip": "26810",
+      "city": "Westoverledingen",
+      "phone": "+49 1741659389",
+      "email": "rudel@doodle-dawgs.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "XXX",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": "",
+          "name": "Fleur",
+          "breeding": "",
+          "url": ""
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.333Z",
+      "updatedAt": "2025-01-29T22:45:22.960Z",
+      "status": "existing"
+    },
+    {
+      "id": 24,
+      "name": "Hoffmann, Frank und Silke",
+      "kennel": "Marks And Blinds",
+      "zip": "27432",
+      "city": "Bremervörde",
+      "phone": "0176 61657733",
+      "email": "info@marks-and-blinds.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 157668,
+          "name": "Marks And Blinds Feffa",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=157668&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.974Z",
+      "status": "existing"
+    },
+    {
+      "id": 25,
+      "name": "Peick, Elvira",
+      "kennel": "Oakhedgerow",
+      "zip": "27777",
+      "city": "Ganderkesee",
+      "phone": "04221 88922",
+      "email": "elvira.peick@web.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 169335,
+          "name": "O'Philippa vom Wachtberger Ländchen",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=169335&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.974Z",
+      "status": "existing"
+    },
+    {
+      "id": 26,
+      "name": "Wiek, Susann",
+      "kennel": "vom Pietzmoor",
+      "zip": "29640",
+      "city": "Schneverdingen",
+      "phone": "015155210275",
+      "email": "Susann.wiek@gmail.com",
+      "parents": {
+        "male": {
+          "id": 142021,
+          "name": "Happy Black Charly ut de Marschlannen",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=142021&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 172231,
+          "name": "Trust your nose Eternal Lua",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=172231&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 27,
+      "name": "Bödecker, Nicole",
+      "kennel": "Firefly Guardian",
+      "zip": "31319",
+      "city": "Sehnde",
+      "phone": "05138 7099650",
+      "email": "fireflyguardian@gmx.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Silva Nigra Labrador Achilles \"Ash\"",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 154067,
+          "name": "Polarfischer Hazel",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=154067&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.975Z",
+      "status": "existing"
+    },
+    {
+      "id": 28,
+      "name": "Gritzo, Sandra",
+      "kennel": "Finheyday",
+      "zip": "34289",
+      "city": "Zierenberg",
+      "phone": "01732844000",
+      "email": "finheyday@gmail.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Lindeth Henry (taugl. f. sp. jagdl. Leistungszucht)",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 169838,
+          "name": "Finheyday Bandua",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=169838&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.975Z",
+      "status": "existing"
+    },
+    {
+      "id": 29,
+      "name": "Burose Traute",
+      "kennel": "vom Barkendiek",
+      "zip": "37249",
+      "city": "Neu-Eichenberg",
+      "phone": "05504694",
+      "email": "trauteburose@t-online.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 152007,
+          "name": "Mücke vom Barkendiek",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=152007&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.975Z",
+      "status": "existing"
+    },
+    {
+      "id": 30,
+      "name": "Jeannette Wollenberg-Zithier",
+      "kennel": "AmberSheen",
+      "zip": "39218",
+      "city": "Schönebeck/Elbe",
+      "phone": "015172434571",
+      "email": "cascha1@t-online.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 151955,
+          "name": "Bysterstorff's Jelly Bean",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151955&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.975Z",
+      "status": "existing"
+    },
+    {
+      "id": 31,
+      "name": "Faßbender, Kerstin",
+      "kennel": "Sense of Fortune",
+      "zip": "41749",
+      "city": "Viersen",
+      "phone": "017699592537",
+      "email": "Info@sense-of-fortune.de",
+      "parents": {
+        "male": {
+          "id": 145217,
+          "name": "Gundog's Choice Ghost",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=145217&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 176517,
+          "name": "Kunigunde von Gugi's Kate",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=176517&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 32,
+      "name": "Andy Blockus",
+      "kennel": "of Bluestack Mountains",
+      "zip": "46325",
+      "city": "Borken OT Weseke",
+      "phone": "015732280958",
+      "email": "working_gundogs@yahoo.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Henderick Team Williams",
+          "breeding": "performance",
+          "url": ""
+        },
+        "female": {
+          "id": 147163,
+          "name": "Aberdean of Bluestack Moutains",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=147163&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.347Z",
+      "updatedAt": "2025-01-29T22:45:22.975Z",
+      "status": "existing"
+    },
+    {
+      "id": 33,
+      "name": "Langert, Saskia",
+      "kennel": "Trust your nose",
+      "zip": "46519",
+      "city": "Alpen",
+      "phone": "015124166080",
+      "email": "kontakt@trustyournose.de",
+      "parents": {
+        "male": {
+          "id": 157658,
+          "name": "Jodie's Labbies Albert Charles",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=157658&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 148902,
+          "name": "Trust your nose Beasley",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=148902&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 34,
+      "name": "Jans-van de Sandt, Elisabeth",
+      "kennel": "…vom Oraniendeich",
+      "zip": "47533",
+      "city": "Kleve",
+      "phone": "0162/3038205",
+      "email": "Info-vom-oraniendeich@mail.de",
+      "parents": {
+        "male": {
+          "id": 177710,
+          "name": "Drumindoney First Choice",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=177710&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 150728,
+          "name": "Caja vom Altendorfer Diek",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=150728&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 35,
+      "name": "Baum, Alexandra",
+      "kennel": "Mourne Mountain",
+      "zip": "47551",
+      "city": "Bedburg-Hau",
+      "phone": "01629248854",
+      "email": "abaum73@gmx.de",
+      "parents": {
+        "male": {
+          "id": 170170,
+          "name": "Scott of Roughcorner Castle",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=170170&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 170849,
+          "name": "Mourne Mountain Decent Joyce",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=170849&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 36,
+      "name": "Puckert, Martina",
+      "kennel": "Green River Souls",
+      "zip": "48432",
+      "city": "Rheine",
+      "phone": "016092621893",
+      "email": "greenriversouls@gmx.de",
+      "parents": {
+        "male": {
+          "id": 176664,
+          "name": "Tuure of Finnwoods",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=176664&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 172812,
+          "name": "Carlie von Elmstedt",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=172812&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 37,
+      "name": "Wienöbst Christof",
+      "kennel": "vom Hasetaler Forst",
+      "zip": "49624",
+      "city": "Löningen",
+      "phone": "0173-7014322",
+      "email": "christof.wienoebst@gmx.de",
+      "parents": {
+        "male": {
+          "id": 134867,
+          "name": "Fir green Archer",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=134867&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 169400,
+          "name": "Coco vom Hasetaler Forst",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=169400&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 38,
+      "name": "Neekamp, Martin",
+      "kennel": "Vom Bether Roggenkamp",
+      "zip": "49661",
+      "city": "Cloppenburg",
+      "phone": "0151-27634957",
+      "email": "martinneekamp@t-online.de",
+      "parents": {
+        "male": {
+          "id": 154956,
+          "name": "Silva Nigra Labrador Achilles",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=154956&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 153443,
+          "name": "Aika vom Bether Roggenkamp",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=153443&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 39,
+      "name": "Börner, Kerstin",
+      "kennel": "Active Companion",
+      "zip": "49835",
+      "city": "Wietmarschen-Lohne",
+      "phone": "0160/6392425",
+      "email": "boernerteders@web.de",
+      "parents": {
+        "male": {
+          "id": 140264,
+          "name": "Neo vom alten Trappisten Kloster",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=140264&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 151574,
+          "name": "Active Companion Anouk",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151574&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 40,
+      "name": "Dr. Thomas Ringenberg",
+      "kennel": "von Grumsmühlen",
+      "zip": "49838",
+      "city": "Langen/Emsland",
+      "phone": "01712662184",
+      "email": "th.ringenberg@gmail.com",
+      "parents": {
+        "male": {
+          "id": 151512,
+          "name": "Linkwood Ardpatrick",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151512&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 154276,
+          "name": "Carla von Grumsmühlen",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=154276&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 41,
+      "name": "Lemmen, Miriam",
+      "kennel": "Coaldale",
+      "zip": "50127",
+      "city": "Bergheim",
+      "phone": "0177-2887608",
+      "email": "miriam.lemmen@web.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "FTCh Arcklebear Caribou",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 143704,
+          "name": "Karla vom Wachtberger Ländchen",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=143704&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.350Z",
+      "updatedAt": "2025-01-29T22:45:22.977Z",
+      "status": "existing"
+    },
+    {
+      "id": 42,
+      "name": "Holstein",
+      "kennel": "von der Kaninhütte",
+      "zip": "50189",
+      "city": "Elsdor",
+      "phone": "0163-7490296",
+      "email": "hof-holstein@web.de",
+      "parents": {
+        "male": {
+          "id": 176556,
+          "name": "Go Back Skymaster",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=176556&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 156806,
+          "name": "Hey Harper von der Kaninhütte",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=156806&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 43,
+      "name": "Bloy,Rosemary",
+      "kennel": "Jodie's Labbies",
+      "zip": "51503",
+      "city": "Rösrath",
+      "phone": "02205914740",
+      "email": "jodieslabbies@gmail.com",
+      "parents": {
+        "male": {
+          "id": 174293,
+          "name": "Laurino ex Chelsea",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=174293&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 157661,
+          "name": "Jodie's Labbies Artemis Angel",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=157661&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 44,
+      "name": "Karst, Birgit",
+      "kennel": "vom Hohen Windland",
+      "zip": "57520",
+      "city": "Rosenheim/Westerwald",
+      "phone": "015128086631",
+      "email": "karst.birgit@t-online.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Neardamo Lawson (LCD)",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 170159,
+          "name": "Ilvie vom Hohen Windland",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=170159&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.350Z",
+      "updatedAt": "2025-01-29T22:45:22.978Z",
+      "status": "existing"
+    },
+    {
+      "id": 45,
+      "name": "Schnatz, Tina",
+      "kennel": "Passion and Spirit",
+      "zip": "65719",
+      "city": "Hofheim am Taunus",
+      "phone": "0170/2325477",
+      "email": "tina.schnatz@dummy-fieber.de",
+      "parents": {
+        "male": {
+          "id": 161635,
+          "name": "Brakelmann von der Südwinser Düne",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=161635&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 153629,
+          "name": "Young Spirit I am Hazel",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=153629&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 46,
+      "name": "Sommer Martin",
+      "kennel": "Aid-Creek Hunter",
+      "zip": "71134",
+      "city": "Aidlingen",
+      "phone": "015150497883",
+      "email": "sommer2910@t-online.de",
+      "parents": {
+        "male": {
+          "id": 145413,
+          "name": "Troddenmills Full Throttle of Leacaz",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=145413&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 154959,
+          "name": "Silva Nigra Labrador Athena",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=154959&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 47,
+      "name": "Belinda Wurst",
+      "kennel": "Gelbfüßler",
+      "zip": "76228",
+      "city": "Karlsruhe",
+      "phone": "01731335888",
+      "email": "belinda.wurst@gmail.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "wird noch bekannt gegeben",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 161404,
+          "name": "Waterfriend Jody",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=161404&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.978Z",
+      "status": "existing"
+    },
+    {
+      "id": 48,
+      "name": "Wisniewski, Susanne",
+      "kennel": "Querfeldein",
+      "zip": "76437",
+      "city": "Wintersdorf",
+      "phone": "072291859809",
+      "email": "querfeldein@icloud.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "steht noch nicht fest",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 160631,
+          "name": "Gunsight's Hope",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=160631&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.978Z",
+      "status": "existing"
+    },
+    {
+      "id": 49,
+      "name": "Glatt, Bärbel",
+      "kennel": "Funny Fieldhoppers",
+      "zip": "77652",
+      "city": "Offenburg",
+      "phone": "+491703851382",
+      "email": "fieldhoppers@web.de",
+      "parents": {
+        "male": {
+          "id": 145187,
+          "name": "Bernsteingucker Augusto Frodo",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=145187&race=Labrador-Retriever"
+        },
+        "female": {
+          "id": 165677,
+          "name": "Souldancer Adorable Light Malaika",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=165677&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 50,
+      "name": "Birk, Julia",
+      "kennel": "Lalehams",
+      "zip": "78166",
+      "city": "Donaueschingen",
+      "phone": "01743265905",
+      "email": "lalehamslabrador@gmail.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Riverview Farm Dr Pepper \"Peppi\"",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 173262,
+          "name": "Beechdale's Pixie",
+          "breeding": "performance",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=173262&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 51,
+      "name": "Steiger, Martina",
+      "kennel": "hunters life",
+      "zip": "79206",
+      "city": "Breisach",
+      "phone": "07667 6156",
+      "email": "m.steiger.1979@gmail.com",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "offen",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 145833,
+          "name": "Huels' Hunters Nani",
+          "breeding": "special",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=145833&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    },
+    {
+      "id": 52,
+      "name": "Roswitha Bossert",
+      "kennel": "vom Bosserthof",
+      "zip": "79585",
+      "city": "Steinen",
+      "phone": "015253827229",
+      "email": "info@vombosserthof.de",
+      "parents": {
+        "male": {
+          "id": "",
+          "name": "Charly",
+          "breeding": "",
+          "url": ""
+        },
+        "female": {
+          "id": 118363,
+          "name": "Akira",
+          "breeding": "",
+          "url": "https://www.drc.de/adr/listen/show_druede.php?what=Hunde&rvid=118363&race=Labrador-Retriever"
+        }
+      },
+      "createdAt": "2025-01-29T22:23:00.351Z",
+      "updatedAt": "2025-01-29T22:45:22.979Z",
+      "status": "existing"
+    }
+  ]
+}
